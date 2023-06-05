@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-size: 14pt;
+  /* padding-top: 1em; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+/* main > * { */
+/* border: 1px dashed #fff; */
+/* } */
+#text {
+  width: 800px;
+  height: 112px;
+}
+#canvas {
+  width: 800px;
+  height: 600px;
+}
